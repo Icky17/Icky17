@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Icky17
 - 👀 I’m interested in Java, Javascript, HTML, CSS and Python
-- 🌱 I’m currently learning Python and Frontend
+- 🌱 I’m currently learning Python and Networking
 - 💞️ I’m looking to collaborate on open source projects for beginners 
 - 📫 How to reach me
 
