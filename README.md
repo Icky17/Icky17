@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Icky17
-- 👀 I’m interested in Java, Javascript, HTML, CSS, PowerShell and Python
-- 🌱 I’m currently learning Python and Networking
-- 💞️ I’m looking to collaborate on open source projects for beginners 
-- 📫 How to reach me
+- 👀 I’m interested in PowerShell and Python
+- 🌱 I'm currently making an apprenticeship as a computer scientist platform developer in Switzerland
 
 <!---
 Icky17/Icky17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
