@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Icky17&repo=Icky17&theme=synthwave)](https://github.com/Icky17/github-readme-stats)
 
 
-<strong> My Most used Programming Language :</strong><br><br>
+<strong> 💻 My Most used Programming Language :</strong><br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Icky17&layout=compact)](https://github.com/Icky17/github-readme-stats)
 
