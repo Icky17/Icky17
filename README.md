@@ -32,13 +32,19 @@ Icky17/Icky17 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
+<strong>📰 My Current Stats :</strong><br><br>
 
 ![Jairo's github stats](https://github-readme-stats.vercel.app/api?username=Icky17&show_icons=true&theme=synthwave)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Icky17&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+
 <strong>🚀 My Latest Update :</strong><br><br>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Icky17&repo=Icky17&theme=synthwave)](https://github.com/Icky17/github-readme-stats)
+
+
+<strong> My Most used Programming Language :</strong><br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Icky17&layout=compact)](https://github.com/Icky17/github-readme-stats)
 
