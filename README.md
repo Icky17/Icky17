@@ -13,8 +13,8 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Icky17&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <strong>🚀 My Latest Update :</strong><br><br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Icky17&repo=Icky17&theme=synthwave)](https://github.com/Icky17/Icky17)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Icky17&repo=Icky17&theme=synthwave)](https://github.com/Icky17/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Icky17&repo=Icky17)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Icky17&repo=Icky17)](https://github.com/Icky17/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Icky17&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Icky17&layout=compact)](https://github.com/Icky17/github-readme-stats)
