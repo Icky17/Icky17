@@ -4,11 +4,10 @@
 <!--Introduction -->
 I'm Jairo! I'm currently studying / absolving an apprenticeship as an **Computer Scientist Platform Dev in Switzerland**. I'm passionate about making **open-source** more accessible, creating scripts:computer: and tools to help people. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
 <br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
 ### 💼  Things that I'm currently working on: 
 * Learning PowerShell and Python:computer: Development
-* Learning about different OS (Windows, MacOS, Linux Distros).
+* Learning about different OS (Windows, MacOS, Linux Distros like Arch or Ubuntu).
 * Looking forward to learn more about CyberSecurity.
 
 ### 🌱 Challenges that I’m currently challenging myself:
