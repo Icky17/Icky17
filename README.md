@@ -15,7 +15,7 @@ Since I don't have alot of time because of my apprenticeship a sports (basketbal
 
 * Learn to code:man_technologist: 1-2 hours a day with no distraction ( One or two day off a week. ) 
 * Read:newspaper: News about new Technology and IT
-* Basketball Practice 🏀 3 days in a week
+* Basketball Practice 🏀 3 times in a week
 * Adapting and Improving the minimalism life style
 
 <!---
