@@ -6,7 +6,7 @@ I'm Jairo! I'm currently studying / absolving an apprenticeship as an **Computer
 <br>
 
 ### 💼  Things that I'm currently working on: 
-* Learning PowerShell and Python:computer: Development
+* Learning PowerShell and Python:computer:
 * Learning about different OS (Windows, MacOS, Linux Distros like Arch or Ubuntu).
 * Looking forward to learn more about CyberSecurity.
 
