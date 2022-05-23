@@ -16,7 +16,7 @@ Since I don't have alot of time because of my apprenticeship a sports (basketbal
 * Learn to code:man_technologist: 1-2 hours a day with no distraction ( One or two day off a week. ) 
 * Read:newspaper: News about new Technology and IT
 * Basketball Practice 🏀 3 times in a week
-* Adapting and Improving the minimalism life style
+* Adapting and Improving my life style
 
 <!---
 Icky17/Icky17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
