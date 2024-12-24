@@ -8,7 +8,7 @@
         I'm Jairo, an apprentice, and Linux enthusiast.
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=BC83E3&center=true&width=410&height=45&lines=I+love+scripting+and+linux.">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=BC83E3&center=true&width=410&height=45&lines=I+love+networking+and+linux.">
       <br>
       <b>
         ~ Jairo Morales Pérez ~
